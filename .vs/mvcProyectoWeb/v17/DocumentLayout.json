@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE53E6DD-3C48-4D51-A0CD-48A85FA82C2B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE53E6DD-3C48-4D51-A0CD-48A85FA82C2B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE53E6DD-3C48-4D51-A0CD-48A85FA82C2B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb.accesodatos\\migrations\\20240418032025_myprimeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE53E6DD-3C48-4D51-A0CD-48A85FA82C2B}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\migrations\\20240418032025_myprimeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|d:\\upds\\programacionwebii\\mvcproyectoweb - 02 - practica 4\\mvcproyectoweb\\wwwroot\\js\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F820C013-85C6-47F1-9851-122DF754E83E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\wwwroot\\js\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240418032025_MyPrimeraMigracion.cs",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\Migrations\\20240418032025_MyPrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20240418032025_MyPrimeraMigracion.cs",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\Migrations\\20240418032025_MyPrimeraMigracion.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20240418032025_MyPrimeraMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:20:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T03:18:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\appsettings.json",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T02:54:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:46:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T00:45:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cliente.js",
+              "DocumentMoniker": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "ToolTip": "D:\\upds\\programacionWebII\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "RelativeToolTip": "mvcProyectoWeb\\wwwroot\\js\\cliente.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T00:48:18.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

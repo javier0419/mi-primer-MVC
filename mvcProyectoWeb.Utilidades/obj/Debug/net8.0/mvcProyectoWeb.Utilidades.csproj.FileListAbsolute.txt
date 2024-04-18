@@ -1,0 +1,11 @@
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+D:\upds\programacionWebII\mvcProyectoWeb - 02 - Practica 4\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
